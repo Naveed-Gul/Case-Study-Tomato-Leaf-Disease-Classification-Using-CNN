@@ -1,1 +1,2 @@
-# Case-Study-Tomato-Leaf-Disease-Classification-Using-CNN
+# Case Study: Tomato Leaf Disease Classification using CNN
+
