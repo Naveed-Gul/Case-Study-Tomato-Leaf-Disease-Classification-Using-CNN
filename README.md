@@ -1,6 +1,6 @@
 # Case Study: Tomato Leaf Disease Classification using CNN
 
-**Project Overview**
+**Project Overview** 
 
 This project aims to classify tomato leaf diseases using machine learning techniques. The dataset contains images of tomato leaves, labeled with 10 different disease categories, which are used to train a Convolutional Neural Network (CNN). The model leverages techniques like Batch Normalization, Dropout, and Data Augmentation to improve accuracy and prevent overfitting. The goal is to build an automated system capable of detecting and categorizing tomato leaf diseases, which can be beneficial for farmers and agronomists to manage crops efficiently.
 
